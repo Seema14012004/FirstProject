@@ -1,0 +1,18 @@
+-->Make components and then type rafce(or etc.) in them
+-->Make js to react icon from bottom written javascript
+-->Font link in public->index.html
+-->In starting take container size and border and then at the end remove them to give a clean finishing
+-->Import link (can be called as enter tag)
+-->To handle the empty case while login
+    --> Use useState(first click to get import and then again click on the snippet one to get the format)
+-->socket.emit() : send to you only
+-->socket.broadcast(): send to everyone except you
+--> io.emit(): send to everyone
+-->messages.map(): traverse each element
+-->cors is used for inter communication b/w URL
+-->npm i react-scroll-to-bottom(as the name suggests)
+-->npm i socket.io-client
+--> ...(Tripple dot known as spread operator)
+-->link(To avoid reload) and href(To reload)
+--> For responsiveness using vw instead of vmax as in mobile keyboard opens 
+
