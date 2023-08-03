@@ -15,4 +15,6 @@
 --> ...(Tripple dot known as spread operator)
 -->link(To avoid reload) and href(To reload)
 --> For responsiveness using vw instead of vmax as in mobile keyboard opens 
+HOST:
+-->.gitignore in server
 
